@@ -7,6 +7,8 @@ public class testGit {
 
 		System.out.println("hellow World~! hotfix");
 		System.out.println("i'm the master");
+		System.out.println("i'm the hotfix");
+
 	}
 
 }
