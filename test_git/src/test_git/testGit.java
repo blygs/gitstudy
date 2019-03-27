@@ -6,6 +6,7 @@ public class testGit {
 		// TODO Auto-generated method stub
 
 		System.out.println("hellow World~! hotfix");
+		System.out.println("i'm the master");
 	}
 
 }
